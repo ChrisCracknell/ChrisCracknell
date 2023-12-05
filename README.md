@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisCracknell
 - 👀 I’m interested in Coding, Architecture and Security (Crypto).
-- 🌱 I’m currently learning about instant messaging
+- 🌱 I’m currently thinking about Confidential Cloud Computing
 - 📫 reach me at chris.cracknell@t-online.de
 
 <!---
